@@ -15,7 +15,9 @@ h3 {
   text-align: center;
   margin: 0;
 }
-
+content {
+  width: 100%;
+}
 h1 {
   font-size: 96px;
 }
